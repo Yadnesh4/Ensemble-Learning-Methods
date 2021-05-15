@@ -1,5 +1,5 @@
 # Ensemble-Learning-Methods
-Ensemble Learning
+**Ensemble Learning**
 
 Implement Ensemble Learning and compare its performance. 
 
